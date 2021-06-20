@@ -534,6 +534,5 @@ questions = [
         "weights": {
             "Si": 4
         }
-    },
-    {
+    }
 ]
